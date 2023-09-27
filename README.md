@@ -4,7 +4,7 @@
 
 ## This challenge is done by myself for Practicing my CSS skills.
 
-[Link to the CSS challenge](./design/desktop-preview.jpg)
+[Link to the CSS challenge](https://kavin5kumar.github.io/CSS-Practice-card/)
 
 ## Welcome! 👋
 
