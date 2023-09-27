@@ -4,6 +4,8 @@
 
 ## This challenge is done by myself for Practicing my CSS skills.
 
+[Link to the CSS challenge](./design/desktop-preview.jpg)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
